@@ -1,0 +1,21 @@
+Fox the Moderation Bot, the cutest and most useful moderation bot to ever exist.
+You can ban, warn, and kick like most bots, but also the bot logs every entry, exit and deleted message.
+There is also a command to view edits of any message in a server! (see syntax below)
+There are also some fun commands that may get a bit kinky OwO (see below)
+(to use the admin logging option, create a channel named adminlog (THIS MUST BE DONE EXACTLY AS STATED)
+WARNING - this bot is still in VERY EARLY BETA, so it may crash sometimes.
+COMMANDS-
+angery - little present for server moderators! 
+ask - ask fox a question. don't expect it to be right tho, im still working out the kinks ;)
+ban
+config - config fox. SYNTAX - config botchannel   config logchannel    config adminbotchannel
+edits - view message edits. SYNTAX - edits (insert channelid here) (insert messageid here)
+kick
+mute
+purge - bulk removes messages. SYNTAX - purge (insert number 1-50 here)
+unmute
+urban - searches the urban dictionary.
+warn - sends a warning to a user
+warns - views warnings for a user
+xkcd - a secret ;)
+votyn - inside joke
